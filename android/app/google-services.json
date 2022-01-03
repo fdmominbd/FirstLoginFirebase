@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018079601026",
+    "project_id": "firstfirebaselogin-4ba7a",
+    "storage_bucket": "firstfirebaselogin-4ba7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018079601026:android:2e129ad3c6111040d5ef9b",
+        "android_client_info": {
+          "package_name": "com.example.momin_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018079601026-v8v4b20n8ofjb8k2ioaeshqeq2it1d9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUiO6QN35PQggTq2PCk2Fo9lruut6pCLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018079601026-v8v4b20n8ofjb8k2ioaeshqeq2it1d9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
